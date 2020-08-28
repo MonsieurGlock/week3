@@ -13,7 +13,6 @@ int main(){
             a = a+Table[i][j];
         }
     }
-
     for(j=0 ; j<9 ; ++j){ 
         for(i=0 ; i<9 ; ++i){
             a = a+Table[i][j];
